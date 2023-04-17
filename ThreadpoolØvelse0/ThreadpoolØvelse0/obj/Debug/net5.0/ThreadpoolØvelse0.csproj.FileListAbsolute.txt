@@ -1,0 +1,16 @@
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\bin\Debug\net5.0\ThreadpoolØvelse0.exe
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\bin\Debug\net5.0\ThreadpoolØvelse0.deps.json
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\bin\Debug\net5.0\ThreadpoolØvelse0.runtimeconfig.json
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\bin\Debug\net5.0\ThreadpoolØvelse0.runtimeconfig.dev.json
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\bin\Debug\net5.0\ThreadpoolØvelse0.dll
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\bin\Debug\net5.0\ref\ThreadpoolØvelse0.dll
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\bin\Debug\net5.0\ThreadpoolØvelse0.pdb
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\obj\Debug\net5.0\ThreadpoolØvelse0.csproj.AssemblyReference.cache
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\obj\Debug\net5.0\ThreadpoolØvelse0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\obj\Debug\net5.0\ThreadpoolØvelse0.AssemblyInfoInputs.cache
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\obj\Debug\net5.0\ThreadpoolØvelse0.AssemblyInfo.cs
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\obj\Debug\net5.0\ThreadpoolØvelse0.csproj.CoreCompileInputs.cache
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\obj\Debug\net5.0\ThreadpoolØvelse0.dll
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\obj\Debug\net5.0\ref\ThreadpoolØvelse0.dll
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\obj\Debug\net5.0\ThreadpoolØvelse0.pdb
+C:\Users\zbclshi\source\repos\ThreadpoolØvelse0\ThreadpoolØvelse0\obj\Debug\net5.0\ThreadpoolØvelse0.genruntimeconfig.cache
